@@ -4,9 +4,9 @@
 
 Interactive user quiz, with varying outcomes depending on user input. 
 
-![Alt text](/illustrations/start.jpg?raw=true "Home View")
+![Home View](/illustrations/start.png?raw=true "Home View")
 
-![Alt text](/illustrations/quiz.jpg?raw=true "User Quiz Progress View")
+![Quiz View](/illustrations/quiz.png?raw=true "User Quiz Progress View")
 
 ## Deployment
 Deployed via AWS amplify: https://main.d39waccj45wyju.amplifyapp.com/
