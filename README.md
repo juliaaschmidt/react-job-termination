@@ -3,6 +3,9 @@
 ## Functonality
 
 Interactive user quiz, with varying outcomes depending on user input. 
+If the user is eligible for the compensation, the quiz automatically estimates  
+the range of the compensation based on the user's quiz inputs, such as length of
+employment etc.
 
 ![Alt text](/illustrations/start.jpg?raw=true "Home View")
 
