@@ -1,0 +1,38 @@
+.css-hip9hq-MuiPaper-root-MuiAppBar-root {
+  background-color: white;
+}
+
+.style_classy {
+  font-family: "Playfair Display", serif;
+  font-size: 24px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 400;
+  line-height: 26.4px;
+}
+
+.style_logo {
+  font-family: "Myriad Pro", serif;
+  font-size: 24px;
+  font-style: bold;
+  font-variant: condensed;
+  font-weight: 600;
+  line-height: 26.4px;
+}
+
+.svg_icons {
+  transform: scale(1.8);
+}
+
+.navbarbutton {
+  transform: scale(0.8);
+}
+/* .items {
+  display: flex;
+  justify-content: space-between;
+} */
+
+img {
+  max-width: 100%;
+  display: block;
+}
